@@ -1,0 +1,14 @@
+{
+  "name": "openai-proxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-fetch": "^2.7.0",
+    "cors": "^2.8.5"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
